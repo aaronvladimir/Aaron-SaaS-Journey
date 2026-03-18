@@ -1,0 +1,1 @@
+print("halo, gw mau tes cara input data di python ke github")
