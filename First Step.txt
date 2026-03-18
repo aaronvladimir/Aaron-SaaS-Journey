@@ -1,0 +1,6 @@
+Halo nama saya Aaron dan hari ini saya 17/03/26 saya akan memulai project SaaS saya hehe...
+pokoknya untuk pertama kali, saya akan membuat SaaS untuk serve para seller e commerce dengan keluhan mereka yaitu:
+transfer data dan file dari online shop A ke B dst.
+maka saya akan membuat Software yg bisa compress file dari online shop A dan diadjust ke online shop B
+sehingga gaperlu input data satu per satu lagi secara manual... terimakasih
+BTW saya akan mulai belajar dibimbing oleh YT dan juga ChatGPT untuk memahami apa itu VibeCoding, FastAPI pada Python, Domain dsb heheheh
